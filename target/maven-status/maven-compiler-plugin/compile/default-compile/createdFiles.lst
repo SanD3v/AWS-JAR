@@ -1,0 +1,6 @@
+com\um\exception\UserNotFoundException.class
+com\um\model\User.class
+com\um\UserManagementApplication.class
+com\um\service\UserService.class
+com\um\repository\UserRepository.class
+com\um\controller\UserController.class
